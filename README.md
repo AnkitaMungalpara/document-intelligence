@@ -1,1 +1,1 @@
-# PDF-Parsing-with-PaperMage
+# Document Intelligence
